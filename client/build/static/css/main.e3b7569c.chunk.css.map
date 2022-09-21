@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACG,yDAAqC,CACrC,2BAA4B,CAC5B,uBAA2B,CAC3B,qBAEH","file":"main.e3b7569c.chunk.css","sourcesContent":["body{\r\n   background-image: url(\"bgcoffee.jpg\");\r\n   background-attachment: fixed;\r\n   background-position: center;\r\n   background-size: cover;\r\n   \r\n}"]}
